@@ -6,7 +6,7 @@ Here's a more detailed "About Me" section with additional information:
 👀 I’m interested in helping others and contributing to open-source projects.  
 🌱 I’m currently learning advanced concepts in Java and Data Structures & Algorithms (DSA).  
 💞️ I’m looking to collaborate on Java projects, particularly those involving backend development, machine learning, and data science.  
-📫 How to reach me: rahulmarripudi00@gmail.com  
+📫 How to reach me: rahulmarripudi21@gmail.com  
 😄 Pronouns: he/him  
 ⚡ Fun fact: I enjoy solving complex coding challenges and have a knack for debugging.
 
